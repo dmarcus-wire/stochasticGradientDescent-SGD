@@ -24,4 +24,10 @@ while True:
     W += -alpha * Wgradient
 ```
 
+- too small, takes too long to upate
+- too large, fast, but to few updates
 
+tune
+- alpha
+- epochs  
+- batchSize
