@@ -1,6 +1,6 @@
 # Stochastic Gradient Descent
 
-[!image](./images/plots.png)
+![image](./images/plots.png)
 
 - work horse
 - computes gradient + updates weights matrix on small batches of training data
